@@ -46,7 +46,7 @@ Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjun
 ### Penyelesaian
 ![Alt text](image.png)
 ![Alt text](image-1.png)
--tambahin penjelasan singkat jal-
+--
 
 Kendala: tidak ada
 
