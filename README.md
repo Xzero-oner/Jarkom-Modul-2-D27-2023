@@ -75,7 +75,8 @@ Dengan cara yang sama seperti soal nomor 2, buatlah website utama dengan akses k
 ### Penyelesaian
 ![Alt text](image-5.png)
 ![Alt text](image-6.png)
--tambahin penjelasan singkat jal-
+
+*
 
 ### Output
 ![Alt text](image-7.png)
